@@ -34,7 +34,7 @@ The Movie Management Service is a microservice designed to manage movies, user t
 
 1. Clone the repository:
     ```sh
-    git clone git@github.com:ahmetcanozen/movie-management.git
+    git clone git@github.com:buketozdemir/movie-management.git
     cd movie-management
     ```
 

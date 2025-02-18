@@ -1,0 +1,12 @@
+const PAGINATION = {
+  DEFAULT_PAGE: 1,
+  DEFAULT_LIMIT: 25,
+};
+
+const SORT_ORDER = {
+  DEFAULT: 1,
+  ASCENDING: 1,
+  DESCENDING: -1,
+};
+
+export { PAGINATION, SORT_ORDER };
